@@ -1,15 +1,30 @@
 @font-face {
-    font-family:f  ;
-    src: url();
+    font-family:LatoLight;
+    src: url('../fonts/lato-v23-latin-300italic.woff');
+    src: url('../fonts/lato-v23-latin-300italic.woff2');
 }
 
 
 @font-face {
-    font-family:  F;
-    src: url();
+    font-family:LatoRegular;
+    src: url('../fonts/lato-v23-latin-regular.woff');
+    src: url('../fonts/lato-v23-latin-regular.woff2');
 }
 
 @font-face {
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
-    src: url();
+    font-family:LatoBold;
+    src: url('../fonts/lato-v23-latin-700.woff');
+    src: url('../fonts/lato-v23-latin-700.woff2');
+}
+
+@font-face {
+    font-family:LatoExtraBold;
+    src: url('../fonts/lato-v23-latin-900.woff');
+    src: url('../fonts/lato-v23-latin-900.woff2');
+}
+
+@font-face {
+    font-family:OpenSansRegular;
+    src: url('../fonts/open-sans-v28-latin-regular.woff');
+    src: url('../fonts/open-sans-v28-latin-regular.woff2');
 }
